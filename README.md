@@ -1,5 +1,4 @@
 # Bot Calendrier de l'Avent
-
 Bot Discord de calendrier de l'Avent. Il permet de configurer un calendrier et ses récompenses, de lancer ou arrêter l'événement, et de programmer une clôture automatique.
 ## Fonctionnalités
 - Panel de configuration du calendrier
@@ -16,7 +15,7 @@ Les commandes sont réservées à un propriétaire défini par la variable `OWNE
 ## Installation
 1. Clone le dépôt :
    ```bash
-   git clone https://github.com/inesakalove76-droid/bot-calendrier-avent.git
+   git clone https://github.com/rumbarups15/bot-calendrier-avent.git
    cd bot-calendrier-avent
    ```
 2. Installe les dépendances et lancer le bot :
